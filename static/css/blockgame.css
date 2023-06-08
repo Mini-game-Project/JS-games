@@ -6,7 +6,7 @@
 .main {
   height: 100vh;
   width: 100vw;
-  background-image: url("../Assets/blockgame/background.jpg");
+  background-image: url("../images/blockgame/background.jpg");
   background-position: center;
   background-size: cover;
   padding-top: 45px;
@@ -31,7 +31,7 @@ canvas {
   justify-content: center;
   align-items: center;
   gap: 20px;
-  background-image: url("../Assets/blockgame/pinpng.com-message-box-png-4212063.png");
+  background-image: url("../images/blockgame/pinpng.com-message-box-png-4212063.png");
   background-position: center;
   background-size: cover;
   position: relative;
