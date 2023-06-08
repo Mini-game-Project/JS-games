@@ -78,6 +78,6 @@ introButton.addEventListener('click', function () {
 
 // move-title 에 효과음 넣기
 document.querySelector('.move-title').addEventListener('click', function () {
-  const audio = new Audio('../Assets/bgm/click.mp3');
+  const audio = new Audio('../bgm/click.mp3');
   audio.play();
 })

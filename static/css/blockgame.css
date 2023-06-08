@@ -10,6 +10,7 @@
   background-position: center;
   background-size: cover;
   padding-top: 45px;
+  background-color: black;
 }
 canvas {
   background: rgba(238, 238, 238, 0.618);

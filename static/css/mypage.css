@@ -55,7 +55,7 @@
 
 @font-face {
   font-family: "pixel";
-  src: url("../Assets/fonts/NeoDunggeunmoPro-Regular.ttf") format("truetype");
+  src: url("/static/images/fonts/NeoDunggeunmoPro-Regular.ttf") format("truetype");
 }
 
 hr {
