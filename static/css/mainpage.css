@@ -5,7 +5,7 @@ body {
   height: 100vh;
   overflow-x: hidden;
   background-color: black;
-  cursor: url("../Assets/mainpage/smallmouse.png"), auto;
+  cursor: url("../images/mainpage/smallmouse.png"), auto;
 }
 
 .main-container {
@@ -88,7 +88,7 @@ body {
 }
 
 .move-title:hover {
-  cursor: url("../Assets/mainpage/smallmouse.png"), pointer;
+  cursor: url("../images/login/smallmouse.png"), pointer;
 }
 
 .welcomeText {
@@ -108,7 +108,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("../Assets/mainpage/bg.jpg");
+  background-image: url("../images/mainpage/bg.jpg");
   background-size: cover;
   background-position: center;
   overflow-y: hidden;
@@ -138,12 +138,12 @@ body {
 .game_row:nth-child(1) > .more {
   position: absolute;
   right: 50px;
-  background-image: url("../Assets/mainpage/more2.png");
+  background-image: url("../images/mainpage/more2.png");
   background-size: contain;
   background-repeat: no-repeat;
   height: 80px;
   width: 80px;
-  cursor: url("../Assets/mainpage/smallmouse.png"), pointer;
+  cursor: url("../images/mainpage/smallmouse.png"), pointer;
 }
 
 .game_row:nth-child(2) {
@@ -160,7 +160,7 @@ body {
   font-size: 1.2rem;
   width: 300px;
   height: 150px;
-  background-image: url("../Assets/mainpage/dinosaur.png");
+  background-image: url("../images/mainpage/dinosaur.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -171,7 +171,7 @@ body {
   font-size: 1.2rem;
   width: 300px;
   height: 170px;
-  background-image: url("../Assets/mainpage/chat.png");
+  background-image: url("../images/mainpage/chat.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -182,7 +182,7 @@ body {
   font-size: 1.2rem;
   width: 300px;
   height: 170px;
-  background-image: url("../Assets/mainpage/wall.png");
+  background-image: url("../images/mainpage/wall.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -192,7 +192,7 @@ body {
   position: relative;
   height: 270px;
   width: 180px;
-  background-image: url("../Assets/mainpage/users.png");
+  background-image: url("../images/mainpage/users.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -209,27 +209,27 @@ body {
 /* 게임 이미지 클릭시 효과 */
 
 .h3:hover {
-  cursor: url("../Assets/mainpage/smallmouse.png"), pointer;
+  cursor: url("../images/mainpage/smallmouse.png"), pointer;
   transform: scale(1.1);
 }
 
 .game1:hover {
-  cursor: url("../Assets/mainpage/smallmouse.png"), pointer;
+  cursor: url("../images/mainpage/smallmouse.png"), pointer;
   transform: scale(1.1);
 }
 
 .game2:hover {
-  cursor: url("../Assets/mainpage/smallmouse.png"), pointer;
+  cursor: url("../images/mainpage/smallmouse.png"), pointer;
   transform: scale(1.1);
 }
 
 .game3:hover {
-  cursor: url("../Assets/mainpage/smallmouse.png"), pointer;
+  cursor: url("../images/mainpage/smallmouse.png"), pointer;
   transform: scale(1.1);
 }
 
 .mypageIcon:hover {
-  cursor: url("../Assets/mainpage/smallmouse.png"), pointer;
+  cursor: url("../images/mainpage/smallmouse.png"), pointer;
   transform: scale(1.1);
 }
 
@@ -247,7 +247,7 @@ a {
 
 @font-face {
   font-family: "pixel";
-  src: url("../Assets/fonts/NeoDunggeunmoPro-Regular.ttf") format("truetype");
+  src: url("../images/fonts/NeoDunggeunmoPro-Regular.ttf") format("truetype");
 }
 
 @keyframes moveCursor {
@@ -288,7 +288,7 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("../Assets/mypage/background.jpg");
+    background-image: url("../images/mypage/background.jpg");
     background-size: cover;
     background-position: center;
     overflow: hidden;
