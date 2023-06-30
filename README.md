@@ -14,8 +14,6 @@
 
 ## Youtube : https://www.youtube.com/watch?v=v2QXNQvxsG8
 
-### 배포 : http://myweb.eba-ppjcz39z.ap-northeast-2.elasticbeanstalk.com/
-
 <br />
 <img src="demo.gif"/>
 <br />
